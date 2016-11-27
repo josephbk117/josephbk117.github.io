@@ -78,6 +78,9 @@
   font-family: 'Droid Sans', sans-serif;
   font-size: 20px;
 }
+#msg-box4-5 .mbr-header__text P {
+  text-align: left;
+}
 #social-buttons1-6 .mbr-header__text {
   color: #efefef;
   font-family: 'Slabo 27px', serif;
